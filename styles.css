@@ -1,0 +1,17 @@
+body {
+    border: 1px solid black;
+    width: 50vw;
+    margin-left: 25vw;
+    padding: 25px;
+}
+
+table,
+caption,
+tr,
+td,
+th {
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    /* border-collapse: collapse; */
+    padding: 0.5rem;
+}
